@@ -3,6 +3,17 @@ body  {
     background-color: white;
 }
 
+.dp  {
+    float: right;  
+    margin: 20px;  
+    }
+
 .intro {
-    margin-left = 80px;
+    margin: auto;
+    width: 65%;
+    float: left;
+}
+
+.pubs{
+    float: left;
 }
